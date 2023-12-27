@@ -1,4 +1,4 @@
-package io.raynelz.crud;
+package org.example.crud;
 
 import java.util.List;
 

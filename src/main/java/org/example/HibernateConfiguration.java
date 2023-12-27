@@ -1,7 +1,7 @@
-package io.raynelz;
+package org.example;
 
-import io.raynelz.entities.Group;
-import io.raynelz.entities.Student;
+import org.example.entities.Group;
+import org.example.entities.Student;
 import org.hibernate.SessionFactory;
 import org.hibernate.boot.MetadataSources;
 import org.hibernate.boot.registry.StandardServiceRegistry;

@@ -1,6 +1,6 @@
-package io.raynelz.crud;
+package org.example.crud;
 
-import io.raynelz.entities.Group;
+import org.example.entities.Group;
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;
 import org.hibernate.Transaction;

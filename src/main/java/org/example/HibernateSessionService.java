@@ -1,10 +1,10 @@
-package io.raynelz;
+package org.example;
 
-import io.raynelz.crud.EntityManagerStudentDao;
-import io.raynelz.crud.GroupDao;
-import io.raynelz.crud.StudentDao;
-import io.raynelz.entities.Group;
-import io.raynelz.entities.Student;
+import org.example.crud.GroupDao;
+import org.example.crud.StudentDao;
+import org.example.crud.EntityManagerStudentDao;
+import org.example.entities.Group;
+import org.example.entities.Student;
 import org.hibernate.SessionFactory;
 
 import java.util.List;

@@ -1,4 +1,4 @@
-import io.raynelz.HibernateSessionService;
+import org.example.HibernateSessionService;
 import org.junit.jupiter.api.Test;
 
 public class HibernateServiceTest {

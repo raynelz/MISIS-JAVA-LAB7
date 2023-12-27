@@ -1,4 +1,4 @@
-package io.raynelz.entities;
+package org.example.entities;
 
 import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
